@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🍅
+# 🍒
 
 ### suan-lilian
-
-୨୧ coding · creating · learning ୨୧
 
 <br/>
 
